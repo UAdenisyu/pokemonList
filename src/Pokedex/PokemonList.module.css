@@ -1,0 +1,20 @@
+.pokemon-link{
+    color: #333;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.pokemon-link:nth-child(2n) {
+    background-color: #f6f6f6;
+    display: block;
+}
+
+.load-more-btn {
+    padding: 1rem .5rem;
+    background: #48f;
+    margin: 2rem auto;
+    border: 0;
+    cursor: pointer;
+    color: #fff;
+    display: block;
+  }
